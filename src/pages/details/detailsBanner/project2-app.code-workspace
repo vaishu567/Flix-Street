@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/VAISHNAVI/project2-app"
+		},
+		{
+			"path": "../../../../../HTML"
+		},
+		{
+			"path": "../../../../../py4e"
+		},
+		{
+			"path": "C:/Users/VAISHNAVI/project1-app"
+		},
+		{
+			"path": "C:/Users/VAISHNAVI/sorting-app"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
